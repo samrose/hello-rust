@@ -1,0 +1,86 @@
+{
+  "build": {},
+  "element": {
+    "active": true,
+    "attrPath": [
+      "x86_64-linux",
+      "hello-rust"
+    ],
+    "originalUrl": null,
+    "storePaths": [
+      "/nix/store/2ls7ifzjkdgshl1qg5y6f8gx46h1vkjn-hello-rust-0.0.0"
+    ],
+    "url": null
+  },
+  "eval": {
+    "attrPath": [
+      "x86_64-linux",
+      "hello-rust"
+    ],
+    "drvPath": "/nix/store/nivl372agz1nxg77h36ga0s4kqym9azi-hello-rust-0.0.0.drv",
+    "meta": {
+      "available": true,
+      "broken": false,
+      "insecure": false,
+      "name": "hello-rust-0.0.0",
+      "outputsToInstall": [
+        "out"
+      ],
+      "platforms": [
+        "aarch64-linux",
+        "armv5tel-linux",
+        "armv6l-linux",
+        "armv7a-linux",
+        "armv7l-linux",
+        "i686-linux",
+        "m68k-linux",
+        "mipsel-linux",
+        "mips64el-linux",
+        "powerpc64-linux",
+        "powerpc64le-linux",
+        "riscv32-linux",
+        "riscv64-linux",
+        "s390-linux",
+        "s390x-linux",
+        "x86_64-linux",
+        "x86_64-darwin",
+        "i686-darwin",
+        "aarch64-darwin",
+        "armv7a-darwin"
+      ],
+      "position": "/nix/store/ljwf3kxqqb0aaqx1ri0p6a1llwv3xn7r-source/pkgs/hello-rust/default.nix:14",
+      "unfree": false,
+      "unsupported": false
+    },
+    "name": "hello-rust-0.0.0",
+    "namespace": [
+      "hello-rust"
+    ],
+    "outputs": {
+      "out": "/nix/store/2ls7ifzjkdgshl1qg5y6f8gx46h1vkjn-hello-rust-0.0.0"
+    },
+    "pname": "hello-rust",
+    "system": "x86_64-linux",
+    "version": "0.0.0",
+    "stability": "stable"
+  },
+  "source": {
+    "locked": {
+      "lastModified": 1663867588,
+      "narHash": "sha256-hLqfegFh44jUyFxDENqog0KKIBw4Yr0KyDScX6fKCeI=",
+      "ref": "refs/heads/flywheel",
+      "rev": "a70afb2896fe8c2dd3ce412ae8b33988fb459d75",
+      "revCount": 18,
+      "type": "git",
+      "url": "file:///home/itest/hello-rust"
+    },
+    "original": {
+      "type": "git",
+      "url": "file:///home/itest/hello-rust"
+    },
+    "remote": {
+      "type": "git",
+      "url": "file:///home/itest/hello-rust"
+    }
+  }
+}
